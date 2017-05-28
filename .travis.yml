@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: gMufNhgNppDdgERyv1KENa/PrqVmCbrEpB6Ep4cgqGlU8kDg3NW4WYuP3BXu/8zI5t5SMuYLamwQFAqZt2VjKD/IxbqAeL4zzVoa1rTVoeYfvvhD//bsbbPkT3WCZCYfadEZIUBsLR8ZKuoIHUajTqMlgew40ERYZ+dYAoCMSkvgpkusdE23EH2ovS7jDnsDMJmqGPyXt1cuW7wua/47mtDpTZhylZuZBjZzsZsrFgSjVcly2G283NEjZ5J4tiz+KXIul4fjsY4hjHua78VyuBuyOOVOai9Bznd1oi+Vpnm78GczY0bcVjCHSpkd/hzPHJWg/AWYWZgxXf93hpFYy7N7roe8YfTc6uEKtAy3Nac3J35TqQinEoc7aKOMuhwR2saZl1ASuJXtbNFKDocNGPe5lJiaupJOWlRhLo1+NljCoActUrYgcFA+Y0riC65SgOBntOHLbMSEO+miS/tD+o9uZxlJsBqFWtJzwSgu/YX0biX0gfqzyDyTS1Vpj2DjIrONTOmiQvNRyqrWBVujuYEXu/XgOOCPLayVwk9bfhGmKQ/xp57DFSy0JIhDJNZWj7WBct/D/fqWIhtX2w56x9a73bagTi4WTlxlEPPEfqsj28BbE2Yoz5YwbqeN2FYCiTy3mt+jhvOTxVq5pUpU7kuK0UvpkCFKXYCWCCkKCSM=
-  app: young-thickett-12880
+  app: https://young-thicket-12880.herokuapp.com/
   on:
     repo: jeffreytoconnell/node-shopping-list-integration-tests
